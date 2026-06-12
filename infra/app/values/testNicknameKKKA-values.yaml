@@ -1,0 +1,12 @@
+repoName: debuProject952
+appName: testNicknameKKKA
+namespace: testnicknamekkka-main
+domainSuffix: try.akanjs.com
+deploymentSuffix: t7gafg
+subRoutes: []
+image:
+  registry: registry.akanjs.com
+  tag: main-live
+main:
+  domains:
+    - testnicknamekkka-main-t7gafg.try.akanjs.com
